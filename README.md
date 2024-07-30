@@ -8,7 +8,7 @@ The primary objective of this project is to explore and gain insights from the O
 
 ## Dataset
 
-The dataset used in this project is stored in a MySQL database named "olymics". The main table used for analysis is "athlete_events", which contains information about athletes, the events they participated in, their countries (represented by NOC codes), medals won, and other relevant details.
+The dataset used in this project is stored in a MySQL database named "olympics". The main table used for analysis is "athlete_events", which contains information about athletes, the events they participated in, their countries (represented by NOC codes), medals won, and other relevant details.
 
 ## Advanced SQL Functions Used
 
